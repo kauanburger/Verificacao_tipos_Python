@@ -73,3 +73,6 @@ valor9 = input('Digite um valor: ')
 print(valor9.isdecimal())
 
 #Verificação se a string está em formato de título, ou seja, começa as palavras começam em maiúsculo e o resto é tudo minúsculo
+
+valor10 = input('Digite um valor: ')
+print(valor10.istitle())
